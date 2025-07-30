@@ -1,5 +1,5 @@
 # WGDiff
-The source code of our paper "Efficient Guided Diffusion Toward Adverse Weather Image Restoration"
+The source code of our paper "Efficient Guided Diffusion Toward Adverse Weather Image Restoration", which will be available after the paper is accepted.
 
 # Data preparation
 Please refer to the Dataset utilized in paper "Restoring vision in adverse weather conditions with patch-based denoising diffusion models"
