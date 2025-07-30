@@ -16,4 +16,4 @@ Please refer to the Dataset utilized in paper "Restoring vision in adverse weath
 
 2.Run "python eval_diffusion.py"
 
-3.Results will be saved in "save folder"
+3.Results will be saved in "save_folder"
